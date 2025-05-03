@@ -1,6 +1,6 @@
 # Task-Manager
 
-- A simple Java console-based Task Manager that lets users add, view, and manage daily tasks efficiently.
+- TaskManager is a simple, console-based Java application designed to help users efficiently manage their daily tasks. With features to add, view, and track tasks, it provides a simple way to stay organized and boost productivity.
 
 ## Features
 
@@ -12,28 +12,22 @@
 ## 📁 Folder Structure (MVC-based)
 
 ```
-TaskManagerApp/
-│
-├── model/
-│   ├── User.java
-│   └── Task.java
-│
-├── dao/
-│   ├── UserDAO.java
-│   └── TaskDAO.java
-│
-├── view/
-│   ├── AuthView.java
-│   └── TaskView.java
-│
-├── controller/
-│   ├── AuthController.java
-│   └── TaskController.java
-│
-├── util/
-│   ├── DBConnection.java
-│   └── PasswordUtil.java
-│
-├── Main.java
-└── schema.sql
+  TaskManagerApp/src
+  ├── model/
+  │   ├── User.java
+  │   └── Task.java
+  ├── dao/
+  │   ├── UserDAO.java
+  │   └── TaskDAO.java
+  ├── view/
+  │   ├── AuthView.java
+  │   └── TaskView.java
+  ├── controller/
+  │   ├── AuthController.java
+  │   └── TaskController.java
+  ├── util/
+  │   ├── DBConnection.java
+  │   └── PasswordUtil.java
+  ├── Main.java
+  └── schema.sql
 ```
