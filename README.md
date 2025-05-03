@@ -9,7 +9,7 @@
 - MySQL database integration using JDBC
 - Modular code with `model`, `dao`, `controller`, and `view` packages
 
-## 📁 Folder Structure (MVC-based)
+## Folder Structure
 
 ```
   TaskManagerApp/src
