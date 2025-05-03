@@ -31,3 +31,9 @@
   ├── Main.java
   └── schema.sql
 ```
+
+## Future Simple Updates
+
+- Add a priority field (LOW, MEDIUM, HIGH) in the Task model and database.
+-  Secure password storage using SHA-256 hashing
+-  Add functionality to export tasks to a .txt or .csv file.
