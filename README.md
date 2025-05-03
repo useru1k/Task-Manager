@@ -1,6 +1,7 @@
 # Task-Manager
 
 ## 📁 Folder Structure (MVC-based)
+```
 TaskManagerApp/
 │
 ├── model/
@@ -25,4 +26,4 @@ TaskManagerApp/
 │
 ├── Main.java
 └── schema.sql
-
+```
