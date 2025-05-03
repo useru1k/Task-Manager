@@ -1,6 +1,6 @@
 # Task-Manager
 
-A simple Java console-based Task Manager that lets users add, view, and manage daily tasks efficiently.
+- A simple Java console-based Task Manager that lets users add, view, and manage daily tasks efficiently.
 
 ## Features
 
@@ -10,6 +10,7 @@ A simple Java console-based Task Manager that lets users add, view, and manage d
 - Modular code with `model`, `dao`, `controller`, and `view` packages
 
 ## 📁 Folder Structure (MVC-based)
+
 ```
 TaskManagerApp/
 │
